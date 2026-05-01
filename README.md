@@ -78,7 +78,7 @@ Shows the sample dataset used for training.
 ![Dashboard Preview](images/dashboard.png)
 ![Performance Preview](images/performance.png)
 ![Prediction price Preview](images/predictionprice.png)
-![result Preview](images/result .png)
+![result Preview](images/result.png)
 
 
 ---
