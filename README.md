@@ -68,15 +68,62 @@ House-Price-Prediction/
 
 ---
 
-## 📷 Screenshots
+---
 
-Add your saved outputs here:
+## 📸 Screenshots / Outputs
 
-- Dataset Preview → images/dataset.png  
-- Correlation Heatmap → images/correlation.png  
-- Feature Importance → images/feature_importance.png  
-- Model Comparison → images/model_comparison.png  
-- Actual vs Predicted → images/prediction.png  
+### 📌 1. Dataset Preview
+Shows the sample dataset used for training.
+
+![Dashboard Preview](images/dashboard.png)
+![Performance Preview](images/performance.png)
+![Prediction price Preview](images/predictionprice.png)
+![result Preview](images/result .png)
+
+
+---
+
+### 📌 2. Correlation Heatmap
+Shows relationship between different features.
+
+![Correlation Heatmap](images/correlation.png)
+
+---
+
+### 📌 3. Price Distribution
+Distribution of house prices in dataset.
+
+![Price Distribution](images/price_distribution.png)
+
+---
+
+### 📌 4. Feature Importance
+Shows which features impact price most.
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
+### 📌 5. Model Comparison
+Compares Linear Regression vs Random Forest.
+
+![Model Comparison](images/model_comparison.png)
+
+---
+
+### 📌 6. Actual vs Predicted Prices
+Shows model prediction accuracy.
+
+![Prediction Graph](images/prediction.png)
+
+---
+
+## 🚀 How to Run the Project
+
+### Step 1: Clone Repository
+```bash
+git clone https://github.com/sanskritika2409/House-Price-Prediction.git
+cd House-Price-Prediction
 
 ---
 
